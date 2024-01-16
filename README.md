@@ -6,9 +6,9 @@ predict bike rental demand.
 # 1.EDA:
 Performed EDA to get more informative features like null values,outliers,correlation and other features.
 # 2.Model Bulding:
- 1.Linear Regression Model
- 2.DecisionTree Regressor Model
- 3.Randomforest Regressor Model
+1. Linear Regression Model
+2. DecisionTree Regressor Model
+3. Randomforest Regressor Model
 # 3.Model Validation:
  * Root Mean Squared Logarithmic Error (RMSLE)
 # Insights:
